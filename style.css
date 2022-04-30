@@ -1,0 +1,30 @@
+footer {
+        width: 100%;
+        background-color: rgb(33 37 41);
+        color: white;
+        position: sticky;
+        padding: 30px 2px -3px 0px;
+}
+
+.foot {
+        display: flex;
+        position: relative;
+        float: inline-start;
+}
+
+.foot1 {
+        padding: 10px 10px 10px 10px;
+        margin: 5px;
+        display: flex;
+        position: relative;
+        float: inline-start;
+}
+.cont{
+        padding: 10px 10px 10px 10px;
+        display: block;
+        position: relative;
+}
+h4{
+        position: relative;
+        text-align: center;
+}
